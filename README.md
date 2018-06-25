@@ -27,3 +27,4 @@ app
 ### 7.Импортируем метод get из зависимости axios: `const { get } = require('axios')`, создаем асинхронный обработчик маршрута users, используем метод render объекта Response для связывания шаблона list.pug с данными, полученными из адреса https://kodaktor.ru/j/users
 ![](https://github.com/arinasaf11/express200318/blob/master/Screenshot_3.png?raw=true)
 ### 8. Результат в браузере
+![](https://github.com/arinasaf11/express200318/blob/master/result.jpg?raw=true)
